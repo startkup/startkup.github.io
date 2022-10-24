@@ -1,0 +1,45 @@
+# robots.txt for TKUAIIC website(s)
+#
+# Please note: There might be some misbehaved spiders
+# out there that go _way_ too fast. If you're
+# irresponsible, your access to the site may be blocked.
+#
+
+#
+# Misbehaved bots according to Wikimedia blacklist
+#
+User-agent: Download Ninja
+User-agent: fast
+User-agent: Fetch
+User-agent: grub-client
+User-agent: HTTrack
+User-agent: k2spider
+User-agent: larbin
+User-agent: libwww
+User-agent: linko
+User-agent: Mediapartners-Google*
+User-agent: Microsoft.URL.Control
+User-agent: MJ12bot
+User-agent: MSIECrawler
+User-agent: NPBot
+User-agent: Offline Explorer
+User-agent: sitecheck.internetseer.com
+User-agent: SiteSnagger
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: WebCopier
+User-agent: WebReaper
+User-agent: WebStripper
+User-agent: WebZIP
+User-agent: wget
+User-agent: Xenu
+User-agent: Zealbot
+User-agent: ZyBORG
+Disallow: /
+
+#
+# Friendly, low-speed bots are welcome
+#
+User-agent: *
+Allow: /tkuaiic/2022/
+Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap.xml
