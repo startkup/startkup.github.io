@@ -4,5 +4,5 @@
 	branch = master
 [submodule "tkuaiic/2022"]
 	path = tkuaiic/2022
-	url = https://github.com/tkuaiic/tkuaiic-website-tkuaiic-2022.git
+	url = https://github.com/tkuaiic/tkuaiic-websites-tkuaiic-2022.git
 	branch = master
