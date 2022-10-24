@@ -42,5 +42,6 @@ Disallow: /
 #
 User-agent: *
 Allow: /tkuaiic/2022/
+Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap-index.xml
 Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap-en.xml
 Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap-zh-hant.xml
