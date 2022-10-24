@@ -1,4 +1,4 @@
-tkuaiic-website
+TKUAIIC-Website
 ================
 
 git repository for use with [TKUAIIC].
