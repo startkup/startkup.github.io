@@ -1,0 +1,4 @@
+[submodule "resources"]
+	path = resources
+	url = https://github.com/tkuaiic/tkuaiic-resources.git
+	branch = master
