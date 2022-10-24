@@ -41,7 +41,15 @@ Disallow: /
 # Friendly, low-speed bots are welcome
 #
 User-agent: *
+Allow: /hacktku/2015/
+Allow: /hacktku/2016/
+Allow: /hacktku/2017/
+Allow: /hacktku/2018/
 Allow: /tkuaiic/2022/
+Sitemap: https://tkuaiic.github.io/hacktku/2015/sitemap.xml
+Sitemap: https://tkuaiic.github.io/hacktku/2016/sitemap.xml
+Sitemap: https://tkuaiic.github.io/hacktku/2017/sitemap.xml
+Sitemap: https://tkuaiic.github.io/hacktku/2018/sitemap.xml
 Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap-index.xml
 Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap-en.xml
 Sitemap: https://tkuaiic.github.io/tkuaiic/2022/sitemap-zh-hant.xml
