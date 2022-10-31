@@ -6,6 +6,10 @@
 	path = tkuaiic/2022
 	url = https://github.com/tkuaiic/tkuaiic-websites-tkuaiic-2022.git
 	branch = master
+[submodule "tkuaiic/services"]
+	path = tkuaiic/services
+	url = https://github.com/tkuaiic/tkuaiic-websites-tkuaiic-services.git
+	branch = master
 [submodule "hacktku"]
 	path = hacktku
 	url = https://github.com/tkuaiic/hacktku.github.io.git
